@@ -1,5 +1,5 @@
 ## PHE Adventures
-#### <code>[<< Return To Main Page](https://pikakid98.github.io/)</code> <code>[< Return To Repo Page](https://pikakid98.github.io/phe-adventures)</code>
+#### [<< Return To Main Page](https://pikakid98.github.io/)</code> <code>[< Return To Repo Page](https://pikakid98.github.io/phe-adventures)
 
 v0.0.1
 
