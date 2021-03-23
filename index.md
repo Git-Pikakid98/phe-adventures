@@ -1,6 +1,5 @@
 ## PHE Adventures
-
-[< Return To Main Page](https://pikakid98.github.io/)
+#### [< Return To Main Page](https://pikakid98.github.io/)
 
 An old game for an old (Now long defunct) game collaboration company
 
