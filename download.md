@@ -1,4 +1,5 @@
 ## PHE Adventures
+[< Return To Main Page](https://pikakid98.github.io/) [< Return To Repo Page](https://pikakid98.github.io/phe-adventures)
 
 v0.0.1
 
